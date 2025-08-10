@@ -5,9 +5,23 @@ with functionality of authentication, listing products, add to favorite
 and getting profile data provided with device info in iPhone like iOS & name using channels
 
 "To get starting":
+
 1=> please run the project
+
 2=> ensure that you have implemented flutter pub get
+
 3=> login or signup to start using the app features that we've talked about.
+
+
+App Screenshots:
+
+![Screenshot 1](project_images/login.png)
+![Screenshot 2](project_images/signup.png)
+![Screenshot 3](project_images/home.png)
+![Screenshot 4](project_images/home_liked_item.png)
+![Screenshot 5](project_images/favorites.png)
+![Screenshot 6](project_images/product_details.png)
+![Screenshot 7](project_images/profile.png)
 
 
 "Challenges That I've Faced":
