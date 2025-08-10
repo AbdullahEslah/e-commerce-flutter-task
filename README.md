@@ -15,13 +15,23 @@ and getting profile data provided with device info in iPhone like iOS & name usi
 
 App Screenshots:
 
-![Screenshot 1](project_images/login.png)
-![Screenshot 2](project_images/signup.png)
-![Screenshot 3](project_images/home.png)
-![Screenshot 4](project_images/home_liked_item.png)
-![Screenshot 5](project_images/favorites.png)
-![Screenshot 6](project_images/product_details.png)
-![Screenshot 7](project_images/profile.png)
+<h3>App Screenshots:</h3>
+
+<p align="center">
+  <img src="project_images/login.png" alt="Login" width="200"/>
+  <img src="project_images/signup.png" alt="Signup" width="200"/>
+  <img src="project_images/home.png" alt="Home" width="200"/>
+</p>
+
+<p align="center">
+  <img src="project_images/home_liked_item.png" alt="Home Liked" width="200"/>
+  <img src="project_images/favorites.png" alt="Favorites" width="200"/>
+  <img src="project_images/product_details.png" alt="Product Details" width="200"/>
+</p>
+
+<p align="center">
+  <img src="project_images/profile.png" alt="Profile" width="200"/>
+</p>
 
 
 "Challenges That I've Faced":
