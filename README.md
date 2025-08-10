@@ -18,18 +18,19 @@ App Screenshots:
 <h3>App Screenshots:</h3>
 
 <p align="center">
+  <img src="project_images/splash_screen.png" alt="Splash Screen" width="200"/>
   <img src="project_images/login.png" alt="Login" width="200"/>
   <img src="project_images/signup.png" alt="Signup" width="200"/>
-  <img src="project_images/home.png" alt="Home" width="200"/>
 </p>
 
 <p align="center">
+  <img src="project_images/home.png" alt="Home" width="200"/>
   <img src="project_images/home_liked_item.png" alt="Home Liked" width="200"/>
   <img src="project_images/favorites.png" alt="Favorites" width="200"/>
-  <img src="project_images/product_details.png" alt="Product Details" width="200"/>
 </p>
 
 <p align="center">
+  <img src="project_images/product_details.png" alt="Product Details" width="200"/>
   <img src="project_images/profile.png" alt="Profile" width="200"/>
 </p>
 
